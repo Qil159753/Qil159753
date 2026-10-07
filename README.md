@@ -45,7 +45,7 @@ recognition are still in the lab.
 
 ### Selected repositories
 
-- **[Linetracer_Taiwan](https://github.com/Qil159753/Linetracer_Taiwan)** — Teensy 4.0 line-following robot built for TMIRC 2025 in Taiwan. PID control, encoder odometry, state machine.
+- **[Linetracer_Taiwan](https://github.com/Qil159753/Linetracer_Taiwan)** — line-following robot for TMIRC in Taiwan: the 2025 entry ran on ESP32, the 2026 build moves to Teensy 4.0. PID control, encoder odometry, state machine.
 - **[arduino-digital-io-workshop-new](https://github.com/Qil159753/arduino-digital-io-workshop-new)** — digital I/O teaching material rebuilt on PlatformIO.
 
 ---
