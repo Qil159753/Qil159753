@@ -5,6 +5,8 @@ Third year, Embedded Systems Engineering & Communication Electronics.
 
 I design the control board, write the firmware that runs on it, and build the machine around it.
 
+→ **[Portfolio: qil159753.github.io](https://qil159753.github.io/)**: projects and services, with a live 3D model of the MIONEX arm (Thai / English).
+
 ---
 
 ### MIONEX — myoelectric prosthetic arm
@@ -28,7 +30,7 @@ recognition are still in the lab.
 | | |
 |---|---|
 | **ABU Robocon Thailand 2026** | Top 8 |
-| **TMIRC 2026** — Lunghwa University, Taiwan | Robotracer |
+| **TMIRC 2025** — Lunghwa University, Taiwan | Robotracer |
 
 ---
 
@@ -43,7 +45,7 @@ recognition are still in the lab.
 
 ### Selected repositories
 
-- **[Linetracer_Taiwan](https://github.com/Qil159753/Linetracer_Taiwan)** — Teensy 4.0 line-following robot built for TMIRC 2026 in Taiwan. PID control, encoder odometry, state machine.
+- **[Linetracer_Taiwan](https://github.com/Qil159753/Linetracer_Taiwan)** — Teensy 4.0 line-following robot built for TMIRC 2025 in Taiwan. PID control, encoder odometry, state machine.
 - **[arduino-digital-io-workshop-new](https://github.com/Qil159753/arduino-digital-io-workshop-new)** — digital I/O teaching material rebuilt on PlatformIO.
 
 ---
